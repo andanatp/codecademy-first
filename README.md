@@ -1,1 +1,2 @@
-# codecademy-first
+# codecademy-first portfolio
+Please give feedback!
